@@ -1,1 +1,1 @@
-# CR3_to_JPG
+Free to use.
