@@ -3,6 +3,8 @@ import random
 import rawpy
 import imageio
 import docx
+import locale
+locale.setlocale(locale.LC_ALL, 'en_US.UTF-8')
 import tkinter as tk
 import ttkbootstrap as tkb
 from PIL import Image
